@@ -6,7 +6,7 @@
     echo "<tr>";
     echo "<th></th>";
 
-    for ($x=1; $x < 100; $x++) { 
+    for ($x=1; $x <= 100; $x++) { 
         echo "<th>";
         echo $x;
         echo "</th>";
