@@ -31,7 +31,7 @@
     echo "Thank you for your purchase!<br><br>";
     echo "Password: " . $password;
     echo "<br><br><br>";
-    echo "<table class='receipt'>";
+    echo "<table>";
         echo "<tr>";
         echo "<th></th>";
         echo "<th>Quantity</th>";
