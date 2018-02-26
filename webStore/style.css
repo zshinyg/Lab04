@@ -1,5 +1,10 @@
 body {
     margin: 25px;
+    background-color: powderblue;
+}
+
+.jumbotron {
+    background-color: crimson;
 }
 
 .form-control {
@@ -8,4 +13,19 @@ body {
 
 .btn {
     margin-right: 10px;
+}
+table {
+    background-color: crimson;
+    border: 1px solid black;
+    border-style: solid;
+    border-width: medium;
+}
+
+th {
+    background-color: blue;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
 }
